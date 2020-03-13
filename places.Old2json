@@ -355,7 +355,12 @@
     "address": " Мариуполь, ул. Георгиевская 79, (Отель\"Reikartz Мариуполь\") ",
     "markerPosition": [47.0945516, 37.5439028],
     "description": "     Кухня   Европейская, Украинская     Особенности     WiFi     Завтрак       Поводы   Семейный ужин     Средний чек   $$     Сайт   reikartz.com/ru/hotels/mariupol/rest_and_bars     Email   mariupol.hotel@reikartz.com       Добавить фото  Фотографии                    ",
-    "images": [],
+    "images": [
+      "https://tomato.ua/image/resize/storage/restaurants/5d23134517a656004f29a43d/15625797815d231345359d0_5d231268e53bc6.30463705.jpeg?w=500&h=500",
+      "https://tomato.ua/image/resize/storage/restaurants/5d23134517a656004f29a43d/15625797815d2313454b783_5d23126ee7cfa6.98406186.jpeg?w=500&h=500",
+      "https://tomato.ua/image/resize/storage/restaurants/5d23134517a656004f29a43d/15625797815d2313454cc0a_5d23126ef05b55.15342068.jpeg?w=500&h=500",
+      "https://tomato.ua/image/resize/storage/restaurants/5d23134517a656004f29a43d/15625797815d2313454e0be_5d23126f083e22.97569381.jpeg?w=500&h=500"
+    ],
     "markerIcon": "https://tomato.ua/image/crop/storage/restaurants/5d23134517a656004f29a43d/15625797815d231345359d0_5d231268e53bc6.30463705.jpeg?w=130&h=100"
   }
 ]
